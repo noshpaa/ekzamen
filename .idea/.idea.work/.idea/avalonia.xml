@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="work/App.axaml" value="work/work.csproj" />
+        <entry key="work/Autoriz.axaml" value="work/work.csproj" />
+        <entry key="work/MainWindow.axaml" value="work/work.csproj" />
+        <entry key="work/Registr.axaml" value="work/work.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
